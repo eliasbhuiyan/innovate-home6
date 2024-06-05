@@ -7,6 +7,7 @@ import {
   Route,
   RouterProvider,
 } from "react-router-dom";
+
 function App() {
   const icchemoto = createBrowserRouter(
     createRoutesFromElements(
